@@ -4,7 +4,7 @@ The contest was organized by : [Analytics Vidhya](http://www.analyticsvidhya.com
 
 Contest link : http://datahack.analyticsvidhya.com/contest/black-friday-data-hack
 
-The solution is there in a python file as well as a notebook file.
+### Solution
 
 Solution is there in python file solution.py
 
