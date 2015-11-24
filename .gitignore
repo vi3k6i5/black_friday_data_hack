@@ -1,0 +1,25 @@
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+# Org-mode
+.org-id-locations
+*_archive
+#python cruft
+*.egg
+*.egg-info
+.noseids
+pip-log.txt
+*.pyc
+.idea/
+*.log
+logs
+.idea/
+final_xgb.csv
+train.csv
+test.csv
+.ipynb_checkpoints/
